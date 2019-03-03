@@ -24,7 +24,7 @@ If you want to report critical bug, write ONLY in PM.
 
 Repository for issues and suggestions of RMZS project. Please add tags to reports.
 
-Non-constructive talk belongs in discord channel #discussions
+Non-constructive talk belongs in discord channel #discussions.
 
 Table of tags
 
