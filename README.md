@@ -14,6 +14,7 @@
 ------------ | -------------
 [ZS]|Относиться к игровому режиму ZS
 [CORE]|Не относиться к игровому режиму (чат, магазин шапок и т.д.)
+[MAP]|Относиться к определенной карте
 [SUG]|Предложение
 [BUG]|Баг
 
@@ -32,5 +33,6 @@ Tag | Description
 ------------ | -------------
 [ZS]|Related to ZS gamemode
 [CORE]|Related to non-gamemode part (chat,pointshop etc...)
+[MAP]|Related to specific map
 [SUG]|Suggestion
 [BUG]|Bug
