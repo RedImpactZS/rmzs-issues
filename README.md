@@ -6,6 +6,8 @@
 
 Репозитория для предложений и баг репортов связанных с RMZS. Пожалуйста добавляйте тэги к вашим репортам.
 
+Обсуждения, которые не несут конструктива постить только в дискорд канале #discussions. 
+
 Таблица тэгов
 
 Тэг | Описание
@@ -21,6 +23,8 @@ English
 If you want to report critical bug, write ONLY in PM.
 
 Repository for issues and suggestions of RMZS project. Please add tags to reports.
+
+Non-constructive talk belongs in discord channel #discussions
 
 Table of tags
 
